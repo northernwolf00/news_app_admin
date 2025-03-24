@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "689432359898",
+    "firebase_url": "https://oguz-news-app-default-rtdb.firebaseio.com",
+    "project_id": "oguz-news-app",
+    "storage_bucket": "oguz-news-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689432359898:android:bbd92dad7c0ca9131246e3",
+        "android_client_info": {
+          "package_name": "com.example.news_app_oguz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArQzNOxvy0HZiWlELXDYu_AyRr8HW0Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689432359898:android:192b74d970c514261246e3",
+        "android_client_info": {
+          "package_name": "com.example.news_app_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArQzNOxvy0HZiWlELXDYu_AyRr8HW0Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
